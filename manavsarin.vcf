@@ -1,15 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Manav Sarin
-ORG:MD Consulting
+ORG:MD CONSULTING INDIA
 TEL;TYPE=WORK,VOICE:+91 9930461609
 EMAIL;TYPE=WORK:manavsarin101@gmail.com
 URL:https://mdconsultingindia.com/
-N:Sarin;Manav;;Mr.
-TITLE:MD & CEO
-GENDER:M
-CATEGORIES:Consulting, Business
-X-SOCIALPROFILE;type=twitter;url=https://twitter.com/manavsarin
-X-SOCIALPROFILE;type=linkedin;url=https://www.linkedin.com/in/manavsarin
-PHOTO;VALUE=URL:https://growmorewithus.github.io/manavsarin/manavsarin.jpeg
 END:VCARD
